@@ -2,7 +2,7 @@
 Tool that computes your partner match according a very complicate algorithm based on letters occurency
 
 # How to Run
-python3 __main__.py harrypotter ginnyweasly
+python3 __main__.py harrypotter ginnyweasly\
 h a r y p o t e g i n w s l\
   a r y     t e     n       \
     r y                     \
